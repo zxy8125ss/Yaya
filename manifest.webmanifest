@@ -1,0 +1,16 @@
+{
+  "name": "芽芽 · 一家人一起带娃",
+  "short_name": "芽芽",
+  "description": "按阶段看待办、预警和疫苗；隔代分歧看指南怎么说、话怎么讲。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#FFF8F0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
